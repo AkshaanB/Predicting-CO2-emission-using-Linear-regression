@@ -1,4 +1,4 @@
-# Simple-Linear-Regresssion-Example
+# Predicting-CO2-emission-using-Linear-regression
 This is my first Simple Linear model.
 This is an example that was learnt in the lab session of Coursera online course Machine Learning with Python.
 
